@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/AccountTools.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/TaggedFile.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/UFEDFileContext.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/ChatThread.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/InstalledApplication.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/Account.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/Handler/BaseHandler.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/Handler/ChatHandler.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/DecodedDataModel.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/Handler/ContactHandler.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/Contact.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/DecodedDataSAXHandler.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/Handler/FileHandler.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/AccountManager.java</file>
+            <file>file:/media/ruf-juitxp/dev/juitxp-autopsy/backend/src/org/juitxp/autopsy/backend/UFEDParser/Handler/InstalledApplicationHandler.java</file>
+        </group>
+    </open-files>
+</project-private>
